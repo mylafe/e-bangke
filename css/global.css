@@ -160,7 +160,7 @@ sub {
 }
 /* 正常链接 未访问 */
 a:link {
-  color: #4a9df4;
+  /*color: #4a9df4;*/
 }
 /* 鼠标悬停 */
 a:hover {
@@ -1523,7 +1523,7 @@ a.btn-block,
   font-size: 18px;
 }
 .footer .line {
-  margin: 0 8px;
+  margin: 0 30px;
 }
 .footer .footer-phone {
   font-size: 22px;
