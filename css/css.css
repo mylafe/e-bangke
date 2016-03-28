@@ -173,3 +173,26 @@
 .thinkchange dl dt{
 	padding-left: 15px;
 }
+.zhuce-huiyuan{
+	width:95px; 
+	height:30px;
+	background-color:#FF6600;
+	line-height: 28px;
+	text-align: center;
+	color:#fff;
+	margin-bottom:10px;
+}
+.zhuce-jiameng{
+	width:95px; 
+	height:30px;
+	background-color:#CCCCCC;
+	line-height: 28px;
+	text-align: center;
+	color:#fff;
+}
+.top-img-six{
+	width:60px;
+	height:60px; 
+	border:1px solid #C0C0C0;
+	float:left
+}
