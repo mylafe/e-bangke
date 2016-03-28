@@ -26,7 +26,7 @@
                         that.addClass('cur4').siblings().removeClass('cur4');
                     }
                     // tab1
-                    $this.find('div.list1').animate({marginLeft:-1200*index},'slow');
+                    $this.find('div.list1').animate({marginLeft:-1156*index},'slow');
                     // tab2
                     $this.find('div.list').animate({marginLeft:-835*index},'slow');
                     //tab3

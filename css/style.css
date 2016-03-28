@@ -24,6 +24,14 @@
 	position: relative;
 	z-index: 1;
 }
+.title3{
+	width: 840px;
+	border-bottom:2px solid #EB341F;
+}
+.title4{
+	width: 840px;
+	border-bottom:2px solid #000;
+}
 
 .title li.cur2{background:#EB341F;color:#ffffff;}
 .title li.cur3{background:#EB341F;color:#ffffff;}
@@ -31,61 +39,86 @@
 
 .titleexp li{float:left;margin-right:10px;}
 .zong1{clear:both;width:1158px;height:260px;overflow:hidden;}
-.zong{clear:both;width:835px;height:355px;overflow:hidden;}
+.zong{clear:both;width:835px;height:400px;overflow:hidden;}
+.zong3{clear:both;width:835px;height:335px;overflow:hidden;}
+.zong4{clear:both;width:835px;height:374px;overflow:hidden;border-bottom:1px solid #EEEEEE;}
+
 .list1{width:3480px;}
 .list{width:4200px;}
 .list3{width:4200px;}
 .list4{width:1700px;}
-.list1 .tabCon{float:left;width:1156px;height:250px;border:1px solid #EEEEEE;border-top:0px ;}
-.list .tabCon{float:left;width:612px;height:333px;border:2px solid #EEEEEE;border-top:0px ;margin-left: 17px;margin-top: 10px;}
-.list3 .tabCon{float:left;width:835px;height:333px;border:1px solid #EEEEEE;border-top:0px ;}
-.list4 .tabCon{float:left;width:580px;height:343px;border-bottom:2px solid #EEEEEE;margin-left: 10px;margin-top: 10px;}
+/*新年钜惠*/
+.list1 .tabCon{float:left;width:1156px;height:250px;}
+/*名企推荐*/
+.list .tabCon{float:left;width:614px;height:365px;border:1px solid #EEEEEE;margin-left: 17px;margin-top: 10px;}
+/*订单动态*/
+.list3 .tabCon{float:left;width:840px;height:335px;}
+/*优秀案例*/
+.list4 .tabCon{float:left;width:580px;height:364px;margin-left: 10px;margin-top: 10px;}
 
-.tabth{width:835px;height:37px;line-height:37px;color:#000;}
+.tabth{width:614px;height:37px;line-height:37px;color:#000;}
+.tabth3{width:840px;height:37px;line-height:37px;color:#000;}
 .tabth span{display:inline-block;text-align:center;float:left;}
+.tabth3 span{display:inline-block;text-align:center;float:left;}
 /*#s1,#s2,#s3,#s4,#s5,#s6{height:210px;overflow:hidden;}*/
 /*.tabUl{height:212px;overflow:hidden;}*/
-.tab-list{float: left;padding-left: 70px;}
+
+.tab-list{
+	float:left;
+	padding-left: 70px;
+}
 .index-value{
 	margin-top: 30px;
 }
-.tabtr{width:835px;height:40px;*height:38px;line-height:40px;*line-height:38px;}
+.list-dapai{
+	width: 1160px;
+	height: 260px;
+	margin:0 auto;
+	margin-top:480px;
+}
+.tabtr{width:614px;height:40px;*height:38px;line-height:40px;*line-height:38px;}
+.tabtr3{width:840px;height:40px;*height:38px;line-height:40px;*line-height:38px;}
+
 .tabtr span,.tabtr a{display:inline-block;text-align:center;cursor:pointer;float:left;text-decoration:none;}
+.tabtr3 span,.tabtr3 a{display:inline-block;text-align:center;cursor:pointer;float:left;text-decoration:none;}
 .clickbtn{border-radius:5px;padding:5px 10px;}
 .hot{background:#e25353;color:#ffffff;cursor:pointer;}
 .details{background: #4D8DF2;color: #ffffff;}
 .pass{background:#b1b2b3;color:#666666;cursor:no-drop;}
 .hot-red{
 	color: #FF0820;
-
+	padding-left: 115px;
 }
 .red-right{
 	float:right;
 	margin-top: -20px;
 }
-
-
 .shanjia ul li{
 	padding-top: 20px;
 	font-size: 14px;
 }
+.zuixin{
+	width: 320px;
+	height: 315px;
+}
 .zuixin ul li{
+	margin-left:25px;
 	padding-top: 20px;
-	padding-left: 40px;
+	padding-left: 25px;
 	font-size: 14px;
 	border-bottom:1px dashed #DCDCDC;
 	overflow:hidden;
 }
 .zuixincanyu ul li{
 	padding-top: 20px;
-	padding-left: 40px;
+	padding-left: 10px;
 	font-size: 14px;
-	border-bottom:1px dashed #DCDCDC;
+	border-bottom:1px solid #DCDCDC; 
 	overflow:hidden;
 }
 .zuixincanyu0{
 	border-bottom:1px solid #A4A4A4;
-	padding-left:30px;
+	padding-left:10px;
 	font-size:16px;padding-top:3px;
 	background-color:#A4A4A4;
 	line-height:48px;

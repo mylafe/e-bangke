@@ -16,20 +16,30 @@ em,i{font-style:normal;}
 /*清除浮动*/
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 /*tab栏*/
+.sales{
+	border: solid 1px #eeeeee;
+}
 .clearfix{zoom:1;border-bottom:3px solid #3889D1;background-color:#DCDCDC;}
-.clearfix2{zoom:1;border-bottom:2px dashed #DCDCDC;}
-.clearfix3 ul{zoom:1;border-bottom:2px solid #EB341F;}
-.clearfix4 ul{zoom:1;border-bottom:2px solid #000;}
+.clearfix2{zoom:1;border-bottom:1px dashed #DCDCDC;}
+.clearfix3 {zoom:1}
+.clearfix4 {zoom:1}
 /*顶部*/
 .clearfix20 ul{zoom:1;border-bottom:2px solid #EB341F;}
 /*tab表名*/
 .tabth{
 	zoom:1;border-bottom:1px solid #DCDCDC;
 }
+.tabth3{
+	zoom: 1;
+    border-bottom: 1px solid #DCDCDC;
+}
 .tabimg{
 	float:left;
 	border: 1px solid #DCDCDC;
 	margin-top: 10px;
+}
+.tabtrlast{
+	border-bottom:0px;
 }
 
 body{font-size: 12px;color: #595757;font-family: "微软雅黑";background-color: #ffffff;}
