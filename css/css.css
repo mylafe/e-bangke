@@ -156,14 +156,20 @@
 	margin-top:750px;
 	width:1160px;
 	margin:0 auto;
-	padding-left: 90px;
+	height: 70px;
+	border-bottom: 1px solid #EEEEEE;
 }
 .thinkchange{
 	width:480px;
 	float:left;
 	border-left: 1px solid #EEEEEE;
 	margin-left: 60px;
+	margin-top: 15px;
+	padding-top: 20px;
 }
 .thinkchange dl{
 	padding-left: 60px;
+}
+.thinkchange dl dt{
+	padding-left: 15px;
 }

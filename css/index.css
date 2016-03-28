@@ -58,7 +58,7 @@
 .hui-li li.li-end .hui-show .hui-shwo-text .line{color:#deedf8}
 .hui-li li.li-end .hui-show .hui-shwo-text del{text-decoration:line-through}
 .hui-li li.li-end h3{margin-right:80px}
-.index-value .index-value-li{width:290px;float:left;position:relative;}
+.index-value .index-value-li{width:250px;padding-left: 40px;float:left;position:relative;}
 .index-value .index-value-li dt{font-size:18px;color:#6b6b6b}
 .index-value .index-value-li dd{font-size:12px;color:#908e8e}
 .index-value .index-value-li2{width:201px}
@@ -66,7 +66,8 @@
 .index-value .index-value-li4{width:201px}
 .index-value .index-value-li5{width:105px;float:right}
 .index-value-li0{width:68px;float:left;position:relative;padding-left:84px;margin-top: 10px;}
-.index-value-li0 dt{font-size:14px;color:#6b6b6b}
+.index-value-li0 dt{font-size:14px;color:#6b6b6b;padding-bottom: 10px;}
+.index-value-li0 dd{font-size:12px;color:#9F9C9B;padding-top: 6px;}
 .service{padding:60px 0 5px 0}
 .service .rimg{width:358px;height:168px;background:url(../images/index/app.png) no-repeat;margin-top:4px;overflow:hidden;display:block}
 .service .rimg:hover{background-position:0 -171px}
