@@ -61,7 +61,7 @@
 .hui-li li.li-end .hui-show .hui-shwo-text .line{color:#deedf8}
 .hui-li li.li-end .hui-show .hui-shwo-text del{text-decoration:line-through}
 .hui-li li.li-end h3{margin-right:80px}
-.index-value .index-value-li{width:201px;float:left;position:relative;padding-left:55px}
+.index-value .index-value-li{width:290px;float:left;position:relative;margin-top: 40px;}
 .index-value .index-value-li dt{font-size:18px;color:#6b6b6b}
 .index-value .index-value-li dd{font-size:12px;color:#908e8e}
 .index-value .index-value-li2{width:201px}
@@ -81,7 +81,7 @@
 .service-ul .i-sg-3{background-position:-260px -100px}
 .service-ul .i-sg-4{background-position:0 -230px}
 .service-ul li{float:left;width:269px;height: 200px;border-radius: 15px;background-color: #EEEEEE;padding-top: 20px;padding-left: 5px}
-.service-ul li h3{font-size:16px;color:#515151;padding-top:4px}
+.service-ul li h3{font-size:18px;color:#515151;padding-top:4px}
 .service-ul li p{color:#868686;font-size:14px}
 .service-ul li a:hover{cursor:pointer;text-decoration:none}
 .service-ul li a:hover .i-sg-1{background-position:-130px -230px}

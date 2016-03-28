@@ -167,9 +167,9 @@ a:hover {
   color: #4a9df4;
   text-decoration: underline;
 }
-a:visited {
+/*a:visited {
   color: #000;
-}
+}*/
 /*动态*/
 #news ul li a:hover{
   color: #FF6600;

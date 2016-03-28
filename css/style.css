@@ -36,7 +36,7 @@
 .list{width:4200px;}
 .list3{width:4200px;}
 .list4{width:1700px;}
-.list1 .tabCon{float:left;width:1158px;height:250px;border-bottom:1px solid #EEEEEE;border-top:0px ;}
+.list1 .tabCon{float:left;width:1156px;height:250px;border:1px solid #EEEEEE;border-top:0px ;}
 .list .tabCon{float:left;width:612px;height:333px;border:2px solid #EEEEEE;border-top:0px ;margin-left: 17px;margin-top: 10px;}
 .list3 .tabCon{float:left;width:835px;height:333px;border:1px solid #EEEEEE;border-top:0px ;}
 .list4 .tabCon{float:left;width:580px;height:343px;border-bottom:2px solid #EEEEEE;margin-left: 10px;margin-top: 10px;}
@@ -45,7 +45,7 @@
 .tabth span{display:inline-block;text-align:center;float:left;}
 /*#s1,#s2,#s3,#s4,#s5,#s6{height:210px;overflow:hidden;}*/
 /*.tabUl{height:212px;overflow:hidden;}*/
-.tab-list{float: left;padding-left: 92px;}
+.tab-list{float: left;padding-left: 70px;}
 .index-value{
 	margin-top: 30px;
 }
