@@ -297,3 +297,30 @@ html,body{
 .ico12{
 	background-position: 0 -345px;
 }
+.tab-big-img{
+	color:#fff;
+	background-color:#555948;
+	width:260px; 
+	line-height: 35px;
+	height:35px;
+	text-align: center;
+	font-size: 16px;
+	position:relative;
+	bottom:38px;
+	z-index:999;
+}
+.tab4-img4 ul li{
+	float:left;
+	padding:10px;
+}
+.shengbaozhimian dt{
+	padding-left: 60px;
+	padding-top:2px;
+}
+.shengbaozhimian dd{
+	padding-left: 60px;
+	padding-top:2px;
+}
+.shengbaozhimian span{
+	float:left;
+}
