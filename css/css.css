@@ -124,7 +124,7 @@
 .people-count{
 	color: #C9C8C8;
 	font-size: 10px !important;
-	padding-right: 15px;
+	padding-right: 5px;
 }
 .people-phon{
 	color: #82A8FA;
@@ -235,7 +235,7 @@ html,body{
     -webkit-text-size-adjust:none;
 }
 .grade{
-	background:url(../images/star.png) no-repeat;
+	background:url(../images/star.png) no-repeat;z-index: 999;
 	height: 12px;
 }
 .star1{
@@ -252,4 +252,48 @@ html,body{
 }
 .star5{
 	background-position: 0 -51px;
+}
+
+.i-left-ico{
+	background:url(../images/category.png) no-repeat;
+	height: 28px;
+	width: 28px;
+	float:left;
+	display: inline-block;
+}
+.ico1{
+	background-position: 0 0;
+}
+.ico2{
+	background-position: 0 -26px;
+}
+.ico3{
+	background-position: 0 -54px;
+}
+.ico4{
+	background-position: 0 -82px;
+}
+.ico5{
+	background-position: 0 -113px;
+}
+.ico6{
+	background-position: 0 -147px;
+}
+.ico7{
+	background-position: 0 -174px;
+}
+.ico8{
+	background-position: 0 -203px;
+}
+.ico9{
+	background-position: 0 -239px;
+}
+.ico10{
+	background-position: 0 -272px;
+}
+.ico11{
+	background-position: 0 -310px;
+}
+.ico12{
+	background-position: 0 -345px;
 }
