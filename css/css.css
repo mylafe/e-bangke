@@ -7,6 +7,15 @@
 .barbox dd.barline{width:100px;background:url(../images/jdtbg.png) left center no-repeat;height:16px;overflow:hidden;display:inline;}
 .barbox dd.barline div.charts{height:16px;width:5px;overflow:hidden;background:url(../images/barbg.gif) right center repeat-x;border-radius:8px;}
 
+.votebox1{position:relative;z-index:66;}
+/* barbox */
+.barbox1{height:16px;line-height:16px;overflow:hidden;padding-top:25px;}
+.barbox1 dt a{color:#0048CC;}
+.barbox1 dd{float:left;}
+.barbox1 dd.last{color:#999;}
+.barbox1 dd.barline{width:170px;background:url(../images/jdtbg1.png) left center no-repeat;height:16px;overflow:hidden;display:inline;}
+.barbox1 dd.barline div.charts{height:16px;width:5px;overflow:hidden;background:url(../images/barbg1.gif) right center repeat-x;border-radius:8px;}
+
 /*last*/
 .tab-list h1{
 	font-size: 16px;
@@ -18,7 +27,7 @@
 .em{
 	width: 12%;
 	font-size:18px;
-	color: #F7001E
+	color: #F7001E;
 }
 .tab-list1{
 	float:left;
@@ -114,6 +123,7 @@
 }
 .people-count{
 	color: #C9C8C8;
+	font-size: 10px !important;
 }
 .people-phon{
 	color: #82A8FA;
@@ -195,4 +205,28 @@
 	height:60px; 
 	border:1px solid #C0C0C0;
 	float:left
+}
+.container-intro{
+	float:left;
+	padding-left:35px;
+}
+.container-intro p{
+	width:150px;
+	padding-top:10px
+}
+.container-intro div{
+	margin-top:40px;
+	width:70px; 
+	height:25px; 
+	background-color:#FB8133;
+	border-radius:5px;
+	font-size:16px;
+}
+.container-intro span{
+	color:#fff;
+	padding-left:3px;
+}
+.listku{
+	padding-top: 24px;
+	padding-left: 15px;
 }

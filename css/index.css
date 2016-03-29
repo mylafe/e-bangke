@@ -18,7 +18,7 @@
 .index-li li{float:left;width:198px;}
 .index-li li h3{font-size:8px;margin-top:25px;}
 .index-li li p{font-size:5px;color:#b4b4b4}
-.index-li li .index-li-pic{font-size:16px;color:#fff;background-color:#DB3652;display:inline-block;padding:3px 8px;margin-top:18px;margin-left: 38px;border-radius:5px; }
+.index-li li .index-li-pic{font-size:14px;color:#fff;background-color:#DB3652;display:inline-block;padding:3px 8px;margin-top:18px;margin-left: 38px;border-radius:5px; }
 .index-li li .index-li-pic em{font-size:14px}
 .index-li li .index-li-pic:hover{text-decoration:none}
 .index-li li .am-img{width:195px;height:190px;position:relative}
