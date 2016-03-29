@@ -234,3 +234,22 @@
 html,body{
     -webkit-text-size-adjust:none;
 }
+.grade{
+	background:url(../images/star.png) no-repeat;
+	height: 12px;
+}
+.star1{
+	background-position: 0 0;
+}
+.star2{
+	background-position: 0 -12px;
+}
+.star3{
+	background-position: 0 -25px;
+}
+.star4{
+	background-position: 0 -39px;
+}
+.star5{
+	background-position: 0 -51px;
+}
