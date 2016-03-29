@@ -16,8 +16,8 @@
 .emmoveHover{left:260px;-moz-transition:.5s;-o-transition:.5s;-webkit-transition:.5s;transition:.5s}
 .index-li{background-color:#fff}
 .index-li li{float:left;width:198px;}
-.index-li li h3{font-size:8px;margin-top:25px;}
-.index-li li p{font-size:5px;color:#b4b4b4}
+.index-li li h3{font-size:12px;margin-top:25px;}
+.index-li li p{font-size:12px;color:#b4b4b4}
 .index-li li .index-li-pic{font-size:14px;color:#fff;background-color:#DB3652;display:inline-block;padding:3px 8px;margin-top:18px;margin-left: 38px;border-radius:5px; }
 .index-li li .index-li-pic em{font-size:14px}
 .index-li li .index-li-pic:hover{text-decoration:none}

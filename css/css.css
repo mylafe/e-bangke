@@ -124,6 +124,7 @@
 .people-count{
 	color: #C9C8C8;
 	font-size: 10px !important;
+	padding-right: 15px;
 }
 .people-phon{
 	color: #82A8FA;
@@ -229,4 +230,7 @@
 .listku{
 	padding-top: 24px;
 	padding-left: 15px;
+}
+html,body{
+    -webkit-text-size-adjust:none;
 }
