@@ -65,7 +65,13 @@
 .index-value .index-value-li3{width:209px}
 .index-value .index-value-li4{width:201px}
 .index-value .index-value-li5{width:105px;float:right}
-.index-value-li0{width:68px;float:left;position:relative;padding-left:84px;margin-top: 10px;}
+
+.index-value-li00{float:left;position:relative;margin-top: 10px;}
+.index-value-li00 dt{font-size:14px;color:#6b6b6b;padding-bottom: 10px;}
+.index-value-li00 dd{font-size:12px;color:#9F9C9B;padding-top: 6px;}
+
+.index-value-li0 dt{font-size:14px;color:#6b6b6b;padding-bottom: 10px;}
+.index-value-li0{float:left;position:relative;padding-left:95px;margin-top: 10px;}
 .index-value-li0 dt{font-size:14px;color:#6b6b6b;padding-bottom: 10px;}
 .index-value-li0 dd{font-size:12px;color:#9F9C9B;padding-top: 6px;}
 .service{padding:60px 0 5px 0}
